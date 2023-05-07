@@ -125,7 +125,7 @@ TestBaseModel class:
 * `def test_pep8_conformance_test_user(self)` - Test that tests/test_models/test_user.py conforms to PEP8
 * `def test_user_module_docstring(self)` - Test for the user.py module docstring
 * `def test_user_class_docstring(self)` - Test for the User class docstring
-
+the best airbnb clone which allows you to choose a property from 100s of options. choose your dates and pay with visa or mastercard
 
 ## Examples of use
 ```
